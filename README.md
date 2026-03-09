@@ -1,0 +1,2 @@
+# -Implementa-o-de-algoritmos-b-sicos-em-paradigmas-diferentes
+Atividade Prática
